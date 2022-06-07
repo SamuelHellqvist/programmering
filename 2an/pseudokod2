@@ -1,0 +1,14 @@
+läs in ett antal tal
+
+börja med det första talet
+
+för varje tal i följden:
+    kolla om talet är mindre än talet efter sig (detta kan göras med hjälp av enumarate)
+när alla tal har gått igenom:
+    skriv ut: talen är i storleksordning
+    break
+
+om nåt av talen är större än det talet före sig själv i följden:
+    skriv ut: talen är inte i storleksordning
+    break
+
